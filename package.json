@@ -7,7 +7,7 @@
   },
   "name": "nhentai-modules",
   "description": "nHentai unofficial API",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
@@ -20,5 +20,13 @@
     "doujinshi",
     "doujinshi-api",
     "nhentai"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paukuman/Nhentai-Modules.git"
+  },
+  "bugs": {
+    "url": "https://github.com/paukuman/Nhentai-Modules/issues"
+  },
+  "homepage": "https://github.com/paukuman/Nhentai-Modules#readme"
 }

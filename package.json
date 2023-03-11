@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "custom-console-colors": "^0.0.4",
+    "node-fetch": "^2.6.9",
+    "npm": "^9.6.0",
+    "try-to-catch": "^3.0.1"
+  },
+  "name": "nhentai-modules",
+  "description": "nHentai unofficial API",
+  "version": "1.0.8",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "paukuman",
+  "license": "ISC",
+  "keywords": [
+    "nhentai-api",
+    "doujinshi",
+    "doujinshi-api",
+    "nhentai"
+  ]
+}
